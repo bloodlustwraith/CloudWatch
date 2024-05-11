@@ -1,0 +1,1 @@
+Name,Instance,Type,Hypervisor,Virtualization Type,Architecture,EBS Optimized,CPUUtilization (Percent),DiskReadOps (Count),DiskWriteOps (Count),DiskReadBytes (Bytes),DiskWriteBytes (Bytes),NetworkIn (Bytes),NetworkOut (Bytes),NetworkPacketsIn (Count),NetworkPacketsOut (Count)
